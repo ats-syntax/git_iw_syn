@@ -5,7 +5,7 @@
 <!-- CHG003: Add variable on E1AFKOL level for CUSTOMER_NAME, Amadeus Tschorn, 22.10.2024 -->
 <!-- CHG004: Add Custom Field CUSTOMER_NAME, Amadeus Tschorn, 22.10.2024 -->
 <!-- CHG005: Disable Re-Scheduling REO Times after Order Update, Amadeus Tschorn, 11.11.2024 -->
-<!-- CHG006: Disable automatic xslt dynamic order change update, Amadeus Tschorn, 25.02.2025 -->
+<!-- CHG006: Disable automatic XSLT dynamic order change update, Amadeus Tschorn, 25.02.2025 -->
 <!-- CHG007: Add Custm Data Field to fill FPR with WBS information, Amadeus Tschorn, 10.03.2025 -->
 <!-- #### CHANGE LOG #### -->
 <xsl:stylesheet version="2.0"
